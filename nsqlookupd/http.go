@@ -9,7 +9,7 @@ import (
 	httpprof "net/http/pprof"
 	"sync/atomic"
 
-	"github.com/bitly/nsq/util"
+	"github.com/deepglint/nsq/util"
 )
 
 type httpServer struct {

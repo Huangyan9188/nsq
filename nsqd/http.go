@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitly/nsq/util"
+	"github.com/deepglint/nsq/util"
 )
 
 type httpServer struct {
